@@ -37,7 +37,6 @@ The webpage presents Goa as a travel destination and organizes information into 
 - Text formatting with `<b>`
 - Horizontal rules (`hr`)
 - Embedded content using `<iframe>`
-- HTML attributes
 - Semantic elements such as `<main>` and `<section>`
 
 ## 📂 Project Structure
